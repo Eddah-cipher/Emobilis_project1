@@ -1,0 +1,174 @@
+
+.nav-col{
+    color: rgb(231, 227, 231);
+}
+
+/*.row{
+    background-color: palevioletred;
+}*/
+.about-us img{
+    position: relative;
+}
+.about-us p{
+    font-size: 24px;
+}
+/*centering text on image*/
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered h1{
+      font-family: sans-serif;
+      font-weight: bolder;
+      font-style: italic;
+      font-size: 100px;
+      color: purple;
+  }
+  .centered p{
+      font-weight: bold;
+      font-family: serif;
+      font-size: 50px;
+  }
+
+
+.h3{
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+
+
+body{
+    background-image: url("/images/pexels-ferdie-balean-5676270.jpg");
+}
+
+.homepage{
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    
+
+}
+.nav-col{
+  margin-right: 30px;
+}
+.h1{
+    float:left;
+
+}
+
+/* Image */
+.img2{
+    position: relative;
+}
+
+
+.service .box {
+    padding: 40px;
+    margin-bottom: 30px;
+    background: rgb(231, 227, 231);
+}
+
+
+
+.about-us {
+    padding: 130px;
+    
+}
+
+.about-us img {
+    padding-right: 30px;
+    border-radius: 12px;
+    
+
+}
+.about-us h3{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+
+
+
+.contact {
+    padding: 0 0 130px 0;
+    background: #2d2e2e;
+}
+
+.contact h2 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #e0a80d;
+    margin-bottom: 60px;
+}
+
+
+
+.contact .info {
+    padding-left: 40px;
+}
+
+.contact .info span {
+    font-size: 20px;
+    color: #e0a80d;
+}
+
+.contact .info p {
+    font-size: 14px;
+    margin: 10px 0 20px 0;
+    color: #eee;
+}
+
+
+.contact {
+    padding: 0 0 130px 0;
+    background: #2d2e2e;
+}
+
+.contact h2 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #e0a80d;
+    margin-bottom: 60px;
+}
+
+.contact .form-control {
+    padding: 25px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    background: #fcf2f2;
+    border: 0;
+    border-radius: 10px;
+}
+
+
+.contact .info {
+    padding-left: 40px;
+}
+
+.contact .info span {
+    font-size: 20px;
+    color: #e0a80d;
+}
+
+.contact .info p {
+    font-size: 14px;
+    margin: 10px 0 20px 0;
+    color: #eee;
+}
+
+/* footer*/
+
+footer{
+    padding: 60px 0;
+    background: violet;
+}
+
+
